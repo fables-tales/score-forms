@@ -21,8 +21,8 @@ After Match
     the `How many tokens in each zone?` boxes. Write 0 if there are no tokens
     for a team in a particular zone.
 4.  Check the token at the bottom of each slot and fill out the
-    `How many tokens at the bottom of each slot?` boxes (with a '1' or a
-    '0')
+    `Has token at bottom of slot?` boxes with a capital y (**Y**) or a capital
+    n (**N**).
 5.  Count the number of upright tokens anywhere in the arena for each
     team. An upright token is defined as being one that:
     1.  Has its lowest three corners as corners from the bottom face of the
