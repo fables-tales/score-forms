@@ -137,6 +137,9 @@ table tr td:nth-child(1) {
     font-size:14pt;
 }
 
+table tr:nth-child(2) td {
+}
+
 .col-xs-3 {
     border: 1px #ccc solid;
 }
@@ -178,4 +181,15 @@ h2 {
 
 .name tr td {
     width:30%;
+}
+
+.row {
+    margin:0px !important;
+}
+
+.team-metadata {
+    border-left:1px solid #999;
+    text-align:center;
+    color:#999;
+    font-weight:500;
 }
